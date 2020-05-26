@@ -26,4 +26,7 @@ Run Main File
 ```python
 python main.py
 ```
+#### Visit 0.0.0.0:5000 link on your favourite browser to enjoy the output
+
+#### To change the video , change the video path in camera.py and set to '0' for webcamp experience 
 
