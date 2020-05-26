@@ -14,15 +14,15 @@
 * Surprise
 * Neutral
 
-### Download Dataset :- https://drive.google.com/drive/folders/1_Qv_PYkIiSn5X5m6d2ESBMr6FVFxYc4o?usp=sharing
+### <a href="https://drive.google.com/drive/folders/1_Qv_PYkIiSn5X5m6d2ESBMr6FVFxYc4o?usp=sharing">Click Here </a> to Download Dataset
 
-
-## Get Started 
+### Get Started 
 Install All the Required Packages
 ```python
-pip install requirements.txt -r 
+pip install -r requirements.txt 
 ```
 Run Main File
 ```python
 python main.py
 ```
+
