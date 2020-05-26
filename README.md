@@ -26,7 +26,7 @@ Run Main File
 ```python
 python main.py
 ```
-Visit 0.0.0.0:5000 link on your favourite browser to enjoy the output
+Visit 0.0.0.0:5000 or <ip address>:5000 (eg :- 192.25.36.156:5000) link on your favourite browser to enjoy the output
 
 <hr>
 
